@@ -105,4 +105,4 @@ Kelas C (S1 Akuntansi)<br>
 
 
   
-## 💻 Dibuat dengan
+## 💻
