@@ -89,7 +89,7 @@ Kelas C (S1 Akuntansi)<br>
 
     ![Image](https://github.com/user-attachments/assets/01ff7466-359c-4594-aa99-9fb4cda2033f)
 
-* **Uji Akun Aset Utang**<br>
+* **Uji Akun Utang**<br>
 
     ![Image](https://github.com/user-attachments/assets/66b1936d-ab48-4df2-8fc2-90b3b3b54097)
 
